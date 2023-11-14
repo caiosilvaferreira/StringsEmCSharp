@@ -1,7 +1,5 @@
 # StringsEmCSharp
 
-# Strings C#
-
 ![Untitled](Strings%20C%23%201827a08cab5040fcb0da4ada1e3e42ae/Untitled.png)
 
 ![Untitled](Strings%20C%23%201827a08cab5040fcb0da4ada1e3e42ae/Untitled%201.png)
