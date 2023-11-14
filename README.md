@@ -2,7 +2,7 @@
 
 # Strings C#
 
-![Untitled](Strings%20C#%201827a08cab5040fcb0da4ada1e3e42ae/Untitled.png)
+![Untitled](Strings%20C%23%201827a08cab5040fcb0da4ada1e3e42ae/Untitled.png)
 
 ![Untitled](Strings%20C%23%201827a08cab5040fcb0da4ada1e3e42ae/Untitled%201.png)
 
@@ -140,7 +140,7 @@ Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a "+
 saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais"); // esse metodo ´´e, a concatenacao tradicional, e o invariant culture so funciona neste metodo.
 ```
 
-![Untitled](Strings%20C#%201827a08cab5040fcb0da4ada1e3e42ae/Untitled%202.png)
+![Untitled](Strings%20C%23%201827a08cab5040fcb0da4ada1e3e42ae/Untitled%202.png)
 
 conseguimos atribuir ate strings
 
@@ -151,4 +151,4 @@ string s = "ABC";
         Console.WriteLine(s);
 ```
 
-![Untitled](Strings%20C#%201827a08cab5040fcb0da4ada1e3e42ae/Untitled%203.png)
+![Untitled](Strings%20C%23%201827a08cab5040fcb0da4ada1e3e42ae/Untitled%203.png)
